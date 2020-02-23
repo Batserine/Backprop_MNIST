@@ -8,5 +8,5 @@ Simple neural network built with numpy to see classification metrics.
 ![Output](https://github.com/Batserine/Backprop_MNIST/blob/master/Confusion%20matrix.png)
 
 ## References:
-1. [Building a Neural Network from Scratch][https://jonathanweisberg.org/post/A%20Neural%20Network%20from%20Scratch%20-%20Part%202/]<br/>
-2. [Neural Network with Backpropagation In Python][https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/]
+1. [Building a Neural Network from Scratch](https://jonathanweisberg.org/post/A%20Neural%20Network%20from%20Scratch%20-%20Part%202/)<br/>
+2. [Neural Network with Backpropagation In Python](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
